@@ -1,0 +1,4 @@
+AuthName "Secure Area"
+AuthType Basic
+AuthUserFile C:Users/Quillan/Documents/GitHub/fin1112.github.io/joe.htpasswd
+require valid-user
